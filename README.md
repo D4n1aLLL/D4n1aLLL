@@ -2,8 +2,8 @@
 
 I am Danial Ahmed, experienced Software Developer in .NET, SQL, React with a strong foundation in coding, design, and problem-solving. Thrives in collaborative environments, values teamwork, and embraces continuous learning to contribute effectively to cutting-edge projects. Feel free to connect for a conversation with like-minded professionals!
 
-![Linkedin Badge](https://img.shields.io/badge/-ahmed.danial001%40gmial.com-lightgray?logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanialahmed01)
-![Gmail Badge](https://img.shields.io/badge/-ahmed.danial001%40gmial.com-gray?logo=gmail&logoColor=red&link=mailto%3Aahmed.danial001%40gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-danialahmed01-lightgray?logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanialahmed01)](https://www.linkedin.com/in/danialahmed01)
+[![Gmail Badge](https://img.shields.io/badge/-ahmed.danial001%40gmail.com-lightgray?logo=gmail&logoColor=red&link=mailto%3Aahmed.danial001%40gmail.com)](mailto:ahmed.danial001@gmail.com)
 
 ## ⚡ Technologies
 
